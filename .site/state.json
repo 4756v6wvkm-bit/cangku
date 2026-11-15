@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-15T17:30:17.748Z",
+ "updated": "2026-11-15T17:30:26.767Z",
  "config": {
   "owner": "4756v6wvkm-bit",
   "ownerName": "Zhuoxuan",
@@ -10,6 +10,24 @@
   }
  },
  "files": [
+  {
+   "id": "fmwi41jg5x2h",
+   "name": "审核员的测试包.zip",
+   "repo": "repo1",
+   "repoName": "cangku",
+   "path": "uploads/2026-11-16/mwi41i65-审核员的测试包.zip",
+   "size": 404,
+   "sha": "26454ef3b949c540e5b759ecee5589360cb9dee5",
+   "url": "https://raw.githubusercontent.com/4756v6wvkm-bit/cangku/main/uploads/2026-11-16/mwi41i65-%E5%AE%A1%E6%A0%B8%E5%91%98%E7%9A%84%E6%B5%8B%E8%AF%95%E5%8C%85.zip",
+   "uploader": "审核员B",
+   "uid": "umwi419lrdgx2pc",
+   "time": "2026-11-15T17:30:26.357Z",
+   "status": "pending",
+   "note": "",
+   "reviewer": "",
+   "reviewerUid": "",
+   "reviewTime": ""
+  },
   {
    "id": "fmwi415n8cez",
    "name": "测试资源包-请忽略.zip",
