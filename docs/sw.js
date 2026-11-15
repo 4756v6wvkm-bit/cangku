@@ -1,5 +1,5 @@
 /* 资源包上传站 · 离线壳层缓存 */
-var CACHE = "rps-v1";
+var CACHE = "rps-v2";
 var SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", function (e) {
