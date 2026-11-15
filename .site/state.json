@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-15T17:30:08.472Z",
+ "updated": "2026-11-15T17:30:17.748Z",
  "config": {
   "owner": "4756v6wvkm-bit",
   "ownerName": "Zhuoxuan",
@@ -22,12 +22,23 @@
    "uploader": "测试员A",
    "uid": "umwi411v4pul7et",
    "time": "2026-11-15T17:30:08.468Z",
-   "status": "pending",
+   "status": "approved",
    "note": "",
-   "reviewer": "",
-   "reviewerUid": "",
-   "reviewTime": ""
+   "reviewer": "审核员B",
+   "reviewerUid": "umwi419lrdgx2pc",
+   "reviewTime": "2026-11-15T17:30:17.748Z"
   }
  ],
- "log": []
+ "log": [
+  {
+   "uid": "umwi419lrdgx2pc",
+   "nick": "审核员B",
+   "date": "2026-11-16",
+   "fileId": "fmwi415n8cez",
+   "name": "测试资源包-请忽略.zip",
+   "result": "approved",
+   "note": "",
+   "at": "2026-11-15T17:30:17.748Z"
+  }
+ ]
 }
