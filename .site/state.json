@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-15T17:28:32.514Z",
+ "updated": "2026-11-15T17:30:08.472Z",
  "config": {
   "owner": "4756v6wvkm-bit",
   "ownerName": "Zhuoxuan",
@@ -9,6 +9,25 @@
    "repo2": "ggh"
   }
  },
- "files": [],
+ "files": [
+  {
+   "id": "fmwi415n8cez",
+   "name": "测试资源包-请忽略.zip",
+   "repo": "repo1",
+   "repoName": "cangku",
+   "path": "uploads/2026-11-16/mwi414dh-测试资源包-请忽略.zip",
+   "size": 604,
+   "sha": "83cbfd1cf4a05157b86b3f4f69599db202f349fb",
+   "url": "https://raw.githubusercontent.com/4756v6wvkm-bit/cangku/main/uploads/2026-11-16/mwi414dh-%E6%B5%8B%E8%AF%95%E8%B5%84%E6%BA%90%E5%8C%85-%E8%AF%B7%E5%BF%BD%E7%95%A5.zip",
+   "uploader": "测试员A",
+   "uid": "umwi411v4pul7et",
+   "time": "2026-11-15T17:30:08.468Z",
+   "status": "pending",
+   "note": "",
+   "reviewer": "",
+   "reviewerUid": "",
+   "reviewTime": ""
+  }
+ ],
  "log": []
 }
